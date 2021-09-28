@@ -1,0 +1,8 @@
+mode wakeup
+sample_rate 512
+trace_len 64
+wakeup_level None
+wakeup_interval 00:00:30
+trigger_delay None
+wakeup_time 09:25:00
+time None
